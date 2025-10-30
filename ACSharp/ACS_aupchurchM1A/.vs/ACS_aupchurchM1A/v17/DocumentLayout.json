@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B25DC435-3171-44D7-8C33-3ED4CF32335E}|ACS_aupchurchM1A\\ACS_aupchurchM1A.csproj|G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\acs_aupchurchm1a\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25DC435-3171-44D7-8C33-3ED4CF32335E}|ACS_aupchurchM1A\\ACS_aupchurchM1A.csproj|solutionrelative:acs_aupchurchm1a\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25DC435-3171-44D7-8C33-3ED4CF32335E}|ACS_aupchurchM1A\\ACS_aupchurchM1A.csproj|G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\acs_aupchurchm1a\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B25DC435-3171-44D7-8C33-3ED4CF32335E}|ACS_aupchurchM1A\\ACS_aupchurchM1A.csproj|solutionrelative:acs_aupchurchm1a\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25DC435-3171-44D7-8C33-3ED4CF32335E}|ACS_aupchurchM1A\\ACS_aupchurchM1A.csproj|G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\acs_aupchurchm1a\\frmcustomers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25DC435-3171-44D7-8C33-3ED4CF32335E}|ACS_aupchurchM1A\\ACS_aupchurchM1A.csproj|solutionrelative:acs_aupchurchm1a\\frmcustomers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25DC435-3171-44D7-8C33-3ED4CF32335E}|ACS_aupchurchM1A\\ACS_aupchurchM1A.csproj|g:\\my drive\\summer 2025\\advancecsharp\\acs_aupchurchm1a\\acs_aupchurchm1a\\db_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25DC435-3171-44D7-8C33-3ED4CF32335E}|ACS_aupchurchM1A\\ACS_aupchurchM1A.csproj|solutionrelative:acs_aupchurchm1a\\db_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "db_Connect.cs",
+              "DocumentMoniker": "G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\ACS_aupchurchM1A\\db_Connect.cs",
+              "RelativeDocumentMoniker": "ACS_aupchurchM1A\\db_Connect.cs",
+              "ToolTip": "G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\ACS_aupchurchM1A\\db_Connect.cs",
+              "RelativeToolTip": "ACS_aupchurchM1A\\db_Connect.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:33:29.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCustomers.cs",
+              "DocumentMoniker": "G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\ACS_aupchurchM1A\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "ACS_aupchurchM1A\\frmCustomers.cs",
+              "ToolTip": "G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\ACS_aupchurchM1A\\frmCustomers.cs",
+              "RelativeToolTip": "ACS_aupchurchM1A\\frmCustomers.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:34:26.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCustomers.Designer.cs",
+              "DocumentMoniker": "G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\ACS_aupchurchM1A\\frmCustomers.Designer.cs",
+              "RelativeDocumentMoniker": "ACS_aupchurchM1A\\frmCustomers.Designer.cs",
+              "ToolTip": "G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\ACS_aupchurchM1A\\frmCustomers.Designer.cs",
+              "RelativeToolTip": "ACS_aupchurchM1A\\frmCustomers.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:32:28.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCustomers.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\ACS_aupchurchM1A\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "ACS_aupchurchM1A\\frmCustomers.cs",
+              "ToolTip": "G:\\My Drive\\Summer 2025\\AdvanceCsharp\\ACS_aupchurchM1A\\ACS_aupchurchM1A\\frmCustomers.cs [Design]",
+              "RelativeToolTip": "ACS_aupchurchM1A\\frmCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:20:03.585Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

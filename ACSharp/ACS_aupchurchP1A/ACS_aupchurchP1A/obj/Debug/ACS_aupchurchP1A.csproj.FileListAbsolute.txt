@@ -1,0 +1,10 @@
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\bin\Debug\ACS_aupchurchP1A.exe.config
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\bin\Debug\ACS_aupchurchP1A.exe
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\bin\Debug\ACS_aupchurchP1A.pdb
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\obj\Debug\ACS_aupchurchP1A.csproj.AssemblyReference.cache
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\obj\Debug\ACS_aupchurchP1A.frmTitles.resources
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\obj\Debug\ACS_aupchurchP1A.Properties.Resources.resources
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\obj\Debug\ACS_aupchurchP1A.csproj.GenerateResource.cache
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\obj\Debug\ACS_aupchurchP1A.csproj.CoreCompileInputs.cache
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\obj\Debug\ACS_aupchurchP1A.exe
+G:\My Drive\Summer 2025\ACS_aupchurchP1A\ACS_aupchurchP1A\obj\Debug\ACS_aupchurchP1A.pdb

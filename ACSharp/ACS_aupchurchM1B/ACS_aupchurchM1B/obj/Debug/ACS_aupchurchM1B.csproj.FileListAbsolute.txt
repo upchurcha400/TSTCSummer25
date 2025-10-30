@@ -1,0 +1,10 @@
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\bin\Debug\ACS_aupchurchM1B.exe.config
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\bin\Debug\ACS_aupchurchM1B.exe
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\bin\Debug\ACS_aupchurchM1B.pdb
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\obj\Debug\ACS_aupchurchM1B.csproj.AssemblyReference.cache
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\obj\Debug\ACS_aupchurchM1B.frmCustomers.resources
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\obj\Debug\ACS_aupchurchM1B.Properties.Resources.resources
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\obj\Debug\ACS_aupchurchM1B.csproj.GenerateResource.cache
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\obj\Debug\ACS_aupchurchM1B.csproj.CoreCompileInputs.cache
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\obj\Debug\ACS_aupchurchM1B.exe
+G:\My Drive\Summer 2025\AdvanceCsharp\ACS_aupchurchM1B\ACS_aupchurchM1B\obj\Debug\ACS_aupchurchM1B.pdb
