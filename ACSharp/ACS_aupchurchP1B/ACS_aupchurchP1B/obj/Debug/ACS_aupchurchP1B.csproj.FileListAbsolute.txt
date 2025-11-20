@@ -1,0 +1,10 @@
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\bin\Debug\ACS_aupchurchP1B.exe.config
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\bin\Debug\ACS_aupchurchP1B.exe
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\bin\Debug\ACS_aupchurchP1B.pdb
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\obj\Debug\ACS_aupchurchP1B.csproj.AssemblyReference.cache
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\obj\Debug\ACS_aupchurchP1B.frmTitle.resources
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\obj\Debug\ACS_aupchurchP1B.Properties.Resources.resources
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\obj\Debug\ACS_aupchurchP1B.csproj.GenerateResource.cache
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\obj\Debug\ACS_aupchurchP1B.csproj.CoreCompileInputs.cache
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\obj\Debug\ACS_aupchurchP1B.exe
+C:\Users\upchu\source\repos\ACS_aupchurchP1B\ACS_aupchurchP1B\obj\Debug\ACS_aupchurchP1B.pdb
